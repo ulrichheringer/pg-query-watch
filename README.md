@@ -1,6 +1,6 @@
-# PostgreSQL Query Watch
+# PostgreSQL Query Watch — Slow Query Monitor
 
-[![Go](https://img.shields.io/badge/Go-1.23%2B-00ADD8?logo=go&logoColor=white)](https://go.dev/) [![MIT License](https://img.shields.io/badge/License-MIT-007ec6.svg)](LICENSE)
+[![Go](https://img.shields.io/badge/Go-1.23%2B-00ADD8?logo=go&logoColor=white)](https://go.dev/) [![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 Find PostgreSQL statements with high average execution time using pg_stat_statements.
 
